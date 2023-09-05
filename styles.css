@@ -31,6 +31,10 @@ body, html {
     font-family: var(--font);
 }
 
+p{
+    font-size:medium;
+}
+
 img {
     width: 30%;
     border-radius: calc(var(--image) * 10);
