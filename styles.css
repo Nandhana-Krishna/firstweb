@@ -80,38 +80,4 @@ button {
   text-align: center;
   font-size: 11px;
 }
-#menu {
-    height: 40px;
-    line-height: 40px;
-   
-  }
-  #menu ul {
-    list-style-type: none;
-    padding-left: 40px;
-  }
-  #menu ul li {
-    display: block;
-    float: left;
-  }
-  #menu {
-    height: 40px;
-    line-height: 40px;
-    background: #000000 url(https://s26.postimg.org/72d8uajc9/menu.jpg) no-repeat;
-  }
-  #menu ul {
-    list-style-type: none;
-    padding-left: 40px;
-  }
-  #menu ul li {
-    display: block;
-    float: left;
-  }
-  #menu ul li a {
-    padding: 0 20px 0 0;
-    font-weight: 100;
-    font-size: 18px;
-    color: #aaa;
-  }
-  #menu ul li a:hover {
-    color: #fff;
-  }
+
